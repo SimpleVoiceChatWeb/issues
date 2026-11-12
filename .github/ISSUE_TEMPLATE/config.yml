@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://SimpleVCWeb.github.io/docs/
+    about: Installation, configuration, deployment and troubleshooting
+  - name: Web client
+    url: https://SimpleVCWeb.github.io/
+    about: Open the browser client and join a server
+  - name: Main repository
+    url: https://github.com/SimpleVoiceChatWeb/SimpleVoiceChatWeb
+    about: Source code, releases and deployment setup

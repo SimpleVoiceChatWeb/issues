@@ -1,23 +1,27 @@
 ---
-name: Problem melden
-about: Etwas geht nicht? Kurz beschreiben, Maintainer sortieren es ein.
-title: "[Problem] "
-labels: []
+name: Bug report
+about: Something is broken? Describe it briefly, maintainers will route it.
+title: "[Bug] "
+labels: ["bug"]
 ---
 
-## Was geht nicht?
+## What is broken?
 
-<!-- Ein, zwei Sätze genügen. Deutsch oder Englisch. -->
+<!-- One or two sentences are enough. German or English is fine. -->
 
-## Wo tritt es auf?
+## Where does it happen?
 
-<!-- z.B. Web-App im Browser, Minecraft-Chat, Docs-Seite, Setup -->
+<!-- e.g. web app in the browser, Minecraft chat, docs site, setup -->
 
-## Schritte zum Nachstellen
+## Steps to reproduce
 
 1.
 2.
 
-## Umgebung (falls bekannt)
+## Environment (if known)
 
-<!-- Browser + Version, Minecraft-Version, Mod oder Browser-Client -->
+<!-- Browser + version, Minecraft version, mod or browser client -->
+
+## Logs / screenshots (optional)
+
+<!-- Server log, browser console, screenshot -->
