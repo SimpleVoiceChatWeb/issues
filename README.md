@@ -4,11 +4,11 @@ Central place for **all** SimpleVoiceChatWeb issues. Not sure which
 repository your problem belongs to? Open it here — maintainers sort it
 into the right place.
 
-- Main project: [SimpleVoiceChatWeb/SimpleVoiceChatWeb](https://github.com/SimpleVoiceChatWeb/SimpleVoiceChatWeb)
+- Project page: [SimpleVoiceChatWeb/SimpleVoiceChatWeb](https://github.com/SimpleVoiceChatWeb/SimpleVoiceChatWeb)
 - Web app: [SimpleVoiceChatWeb/webend](https://github.com/SimpleVoiceChatWeb/webend)
 - Minecraft plugin: [SimpleVoiceChatWeb/plugin](https://github.com/SimpleVoiceChatWeb/plugin)
 - Documentation: [SimpleVoiceChatWeb/docs](https://github.com/SimpleVoiceChatWeb/docs)
-- Live web client: [SimpleVCWeb.github.io](https://SimpleVCWeb.github.io)
+- Live web client: [SimpleVCWeb.github.io/app](https://SimpleVCWeb.github.io/app/)
 - Live documentation: [SimpleVCWeb.github.io/docs](https://SimpleVCWeb.github.io/docs)
 
 ## Before you open an issue

@@ -4,8 +4,8 @@ contact_links:
     url: https://SimpleVCWeb.github.io/docs/
     about: Installation, configuration, deployment and troubleshooting
   - name: Web client
-    url: https://SimpleVCWeb.github.io/
+    url: https://SimpleVCWeb.github.io/app/
     about: Open the browser client and join a server
-  - name: Main repository
+  - name: Project page
     url: https://github.com/SimpleVoiceChatWeb/SimpleVoiceChatWeb
-    about: Source code, releases and deployment setup
+    about: Project overview, announcements and releases
